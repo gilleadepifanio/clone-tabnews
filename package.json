@@ -4,7 +4,7 @@
   "description": "construindo um projeto do zero",
   "main": "index.js",
   "scripts": {
-    "next": "next dev"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
